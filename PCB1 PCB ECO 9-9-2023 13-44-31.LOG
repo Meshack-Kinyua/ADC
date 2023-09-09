@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ6_4
+Change Net Name : Old Net Name=NetJ?_A2 New Net Name=NetJ4_A2
+Change Net Name : Old Net Name=NetJ?_C2 New Net Name=NetJ4_C2
+Change Net Name : Old Net Name=NetJ?_P3_1 New Net Name=NetJ4_P3_1
+Change Net Name : Old Net Name=NetJ?_P3_2 New Net Name=NetJ4_P3_2
+Change Net Name : Old Net Name=NetJ?_P3_3 New Net Name=NetJ4_P3_3
+Change Net Name : Old Net Name=NetJ?_P3_4 New Net Name=NetJ4_P3_4
+Change Net Name : Old Net Name=NetJ?_P3_7 New Net Name=NetJ2_P3_7
+Change Net Name : Old Net Name=NetJ?_P3_8 New Net Name=NetJ2_P3_8
+Change Net Name : Old Net Name=NetJ?_P4_1 New Net Name=NetJ4_P4_1
+Change Net Name : Old Net Name=NetJ?_P4_2 New Net Name=NetJ2_P4_2
+Change Net Name : Old Net Name=NetJ?_P4_3 New Net Name=NetJ2_P4_3
+Change Net Name : Old Net Name=NetJ?_P4_4 New Net Name=NetJ2_P4_4
+Change Net Name : Old Net Name=NetJ?_P4_5 New Net Name=NetJ2_P4_5
+Change Net Name : Old Net Name=NetJ?_P4_6 New Net Name=NetJ2_P4_6
+Added Pin To Net: NetName=NetJ2_A2 Pin=J2-A2
+Added Pin To Net: NetName=NetJ2_A2 Pin=U2-2
+Added Net: Name=NetJ2_A2
+Added Pin To Net: NetName=NetJ2_C2 Pin=J2-C2
+Added Pin To Net: NetName=NetJ2_C2 Pin=U4-2
+Added Pin To Net: NetName=NetJ2_C2 Pin=U4-3
+Added Pin To Net: NetName=NetJ2_C2 Pin=U4-4
+Added Net: Name=NetJ2_C2
+Added Pin To Net: NetName=NetJ2_P3_1 Pin=J2-P3_1
+Added Pin To Net: NetName=NetJ2_P3_1 Pin=J2-P3_3
+Added Pin To Net: NetName=NetJ2_P3_1 Pin=U2-1
+Added Net: Name=NetJ2_P3_1
+Added Pin To Net: NetName=NetJ2_P4_1 Pin=J2-P4_1
+Added Pin To Net: NetName=NetJ2_P4_1 Pin=U2-8
+Added Net: Name=NetJ2_P4_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U3-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-7
+Added Pin To Net: NetName=NetJ5_1 Pin=U5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-6
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-7
+Added Pin To Net: NetName=NetJ6_1 Pin=U7-1
+Added Net: Name=NetJ6_1
+Added Member To Class: ClassName=Sheet1 Member=Component J1 55917-001LF
+Added Member To Class: ClassName=Sheet1 Member=Component J2 51742-10400800AALF
+Added Member To Class: ClassName=Sheet1 Member=Component J3 55917-001LF
+Added Member To Class: ClassName=Sheet1 Member=Component J4 51742-10400800AALF
+Added Member To Class: ClassName=Sheet1 Member=Component J5 55917-001LF
+Added Member To Class: ClassName=Sheet1 Member=Component U2 ADS7824U/1K
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ADC0820CCN+
+Added Member To Class: ClassName=Sheet1 Member=Component U4 ADS7824U/1K
+Added Member To Class: ClassName=Sheet1 Member=Component U5 ADC0820CCN+
+Added Member To Class: ClassName=Sheet1 Member=Component U6 ADS7824U/1K
+Added Member To Class: ClassName=Sheet1 Member=Component U7 ADC0820CCN+
